@@ -54,7 +54,7 @@ const CHAIN_ID = 1
 
 // Initialize WalletLink
 export const walletLink = new WalletLink({
-  appName: APP_NAME,
+  appName: APP_NAME,My aminpsycho
   appLogoUrl: APP_LOGO_URL,
   darkMode: false
 })
